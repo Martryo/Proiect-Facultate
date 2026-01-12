@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: grid;
+    grid-template-rows: 0.15fr 1fr 0.2fr;
+    gap: 0;
+    min-height: 100vh;
+
+    background-color: rgb(141, 46, 46);
+    
+    color: rgb(255, 255, 255);
+    
+}
+
+/* Header Stuff */
+.navbar-container{
+
+    
+    
+
+    background-color: rgb(49, 54, 71);
+        
+}
+
+
+
+
+
+/* NAV BAR */
+
+.navbar-inner{
+    display: grid;
+    grid-template-columns: auto auto 1fr auto;
+    align-items: center;
+    height: 100%;
+    gap: 2rem;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+
+
+/* Dropdown menu + Logo */
+
+
+.menu{
+    list-style-type: none;
+    font-size: larger;
+    
+    
+}
+
+.dropdown{
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.dropdown-menu{
+    list-style-type: none;
+    display: none;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+    position: absolute;
+    margin-top: 60px;
+    background-color: black ;
+}
+
+
+
+/* SEARCH BAR */
+
+.navbar-search-container{
+  
+}
+
+
+.searchbar{
+    width: 300px;
+}
+
+
+
+/* TOOL BOX */
+.tool-box{
+    font-size: 1rem;
+}
+
+
+/* Main Stuff */
+
+main{
+    background-color: rgb(67, 86, 99);
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 30px;
+    align-items: center;
+    justify-items: center;
+}
+
+
+
+
+/* Footer Stuff */
+footer{
+    background-color: rgb(255, 248, 212);
+}
+
+.footer-box{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+
