@@ -24,13 +24,13 @@ Back end:
         
 <img width="562" height="286" alt="image" src="https://github.com/user-attachments/assets/185a6244-4535-4e90-b1a3-8f2b1de8ee0b" />
 
-To do :
-       - Clean up the working space
-       - Clean the code of Ai slop (there is a bunch)
-       - Figure out how to generate pages dynamically for products
-       - Figure out scrapping cuz its apparently very hard to do
-       - Learn more js / python
-       - Stop relying on Ai
+To do:
+- Clean up the working space
+- Clean the code of Ai slop (there is a bunch)
+- Figure out how to generate pages dynamically for products
+- Figure out scrapping cuz its apparently very hard to do
+- Learn more js / python
+- Stop relying on Ai
 
 Long-term:
 - Price aggregator with price histories for items and price analysis options like price increases over periods of time and so on
