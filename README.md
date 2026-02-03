@@ -20,8 +20,9 @@ Back end:
         Local server up using node,
         Get and Post api 
         Database cluster set up -> using mongo db
-        <img width="562" height="286" alt="image" src="https://github.com/user-attachments/assets/185a6244-4535-4e90-b1a3-8f2b1de8ee0b" />
         Test script to get some mock data into the database
+        
+<img width="562" height="286" alt="image" src="https://github.com/user-attachments/assets/185a6244-4535-4e90-b1a3-8f2b1de8ee0b" />
 
 To do :
         Clean up the working space
